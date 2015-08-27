@@ -1,0 +1,31 @@
+.interest{
+	// margin-bottom: -30px;
+	padding-top: 25px;
+	font-family: OpenSans-Light;
+	font-size: 16px;
+	ul{
+		padding-left: 18px;
+		list-style: url(../../images/interest/round.png);
+	}
+	.line{
+	    padding-left: 16px;
+	    margin-top: 48px;
+	}
+	.text{
+		padding: 13px 0px 15px 15px;
+	}
+	.color{
+		h3{
+			font-weight: bold;
+			font-size: 16px;
+			margin:0;
+			color:inherit;
+		    padding-left: 8px;
+		}
+		padding: 15px 0px 15px 10px;
+		background:#eef5f8;
+		}
+	.interest-img{
+		padding: 31px 0 0 20px;
+	}
+}

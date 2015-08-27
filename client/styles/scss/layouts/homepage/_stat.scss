@@ -1,0 +1,31 @@
+.stat{
+	padding: 40px 0px 0px;
+	background-color: #F9F9F9;
+	ul{
+		padding-left: 20px;
+		list-style: url(../../images/interest/round.png);
+	}
+	h3{
+		font-weight: bolder;
+		font-size: 16px;
+	}
+	.icons{
+		 // padding-left: 30px;
+		img{
+			width: 23px;
+			float:  left;
+			padding-right: 7px;
+			}
+		}
+	.color-stat{
+		padding: 15px 0px 15px 10px;
+		background: #d0e9f4;
+	}
+	.head{
+		img{
+			background-position: right bottom;
+		}
+	}
+
+}
+

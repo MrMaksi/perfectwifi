@@ -1,0 +1,41 @@
+.about{
+	padding: 50px 0px;
+	background: #009AE1;
+	color: #fff;
+
+	.breadcrumb{
+		background-color : #009ae1;
+		color: #fff;
+	}
+	.breadcrumb a{
+		color:#5fc5f8;
+	}
+	.breadcrumb > .active a {
+		color: #fff;
+	}
+	.carousel-control.right {
+		background-image: none;
+	}
+	.carousel-control.left{
+		background-image: none;
+	}
+	.image{
+		text-align: center;
+		p{
+			font-size: 20px;
+			font-family: GloberBoldFree;
+		}
+		}
+		.text{
+			h3{
+			font-size: 28px;
+			font-family: GloberBoldFree;
+			}
+			p{
+				font-size: 15px;
+				font-family: OpenSans-LightItalic;
+				font-weight: bold;
+			}
+		}
+	
+}	

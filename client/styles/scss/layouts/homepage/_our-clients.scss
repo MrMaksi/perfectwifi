@@ -1,0 +1,23 @@
+.our-clients{
+	padding: 40px 0px;
+	.line{
+		border-left: 6px solid #009ae1;
+		padding-left: 10px;
+		font-family: GloberBoldFree;
+			h3{
+				font-size: 28px;
+				margin: 0px;
+			}
+			p{
+				font-family: OpenSans-Light;
+				font-size: 16px;
+			}
+
+	}
+}
+.our-clients .col-md-2{
+	  text-align: center;
+	  p{
+	  margin-top: 10px;
+	  }
+	}

@@ -1,0 +1,32 @@
+.stock{
+    padding: 55px 0px 23px 0px;
+	font-family: OpenSans-Light;
+	font-size: 16px;
+	h4{
+			font-weight: bold;
+			font-size: 16px;
+		}
+	background:url(../../images/interest/bg.png) no-repeat center;
+	background-size: cover;
+	.color-stock{
+		background: #86e4f6;
+		padding: 15px 0px 15px 15px;
+	}
+	.text-stock{
+		padding: 31px 0 0 24px;
+	}
+	.img-stock{
+		padding: 17px 0 0 0;
+	}
+	.line{
+	    padding: 14px 0 0px 12px;
+		h3{
+			font-size: 28px;
+			margin: 0px;
+			color: inherit;
+		}
+		p{
+			font-size: 20px;
+		}
+	}
+}

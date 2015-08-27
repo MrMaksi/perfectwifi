@@ -1,0 +1,58 @@
+html,
+body {
+  font-family: OpenSans-Light, sans-serif;
+  font-size: 16px;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+h3{
+		font-weight: bold;
+		font-size: 16px;
+	}
+	.row{
+		margin-left: 80px;
+		margin-right: 80px;
+	}
+	@font-face {
+	  font-family: OpenSans-Light;
+	  src: url(../../fonts/OpenSans-Light.ttf);
+	}
+	@font-face {
+	  font-family: GloberBoldFree;
+	  src: url(../../fonts/GloberBoldFree.otf) format("opentype") ;
+	}
+	@font-face {
+	  font-family: GloberSemiBold;
+	  src: url(../../fonts/GloberSemiBold.otf) format("opentype") ;
+	}
+	@font-face {
+	  font-family: OpenSans-Regular;
+	  src: url(../../fonts/OpenSans-Regular.ttf);
+	}
+	@font-face {
+	  font-family: OpenSans-Bold;
+	  src: url(../../fonts/OpenSans-Bold.ttf);
+	}
+	@font-face {
+	  font-family: OpenSans-CondBold;
+	  src: url(../../fonts/OpenSans-CondBold.ttf);
+	}
+	@font-face {
+	  font-family: OpenSans-CondLight;
+	  src: url(../../fonts/OpenSans-CondLight.ttf);
+	}
+	@font-face {
+	  font-family: OpenSans-CondLightItalic;
+	  src: url(../../fonts/OpenSans-CondLightItalic.ttf);
+	}
+	@font-face {
+	  font-family: OpenSans-LightItalic;
+	  src: url(../../fonts/OpenSans-LightItalic.ttf);
+	}
+	@font-face {
+	  font-family: OpenSans-Semibold;
+	  src: url(../../fonts/OpenSans-Semibold.ttf);
+	}
+

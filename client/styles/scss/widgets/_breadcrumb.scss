@@ -1,0 +1,27 @@
+.breadcrumb {
+	background: transparent;
+	margin: 29px 0px 0px 73px;
+}
+.breadcrumb a{
+	color:#888888;
+	font-family: GloberBoldFree;
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 11px;
+	letter-spacing: 1px;
+}
+.breadcrumb li + li:before{
+	content: "";
+	padding: 0px;
+	}
+.breadcrumb > .active {
+	font-family: GloberBoldFree;
+	font-size: 40px;
+	font-weight: bold;
+	color: #009ae1;
+	letter-spacing: 1px;
+	}
+.breadcrumb > .active a {
+	font-size: 40px;
+	color: #009ae1;
+	}
